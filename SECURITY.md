@@ -23,7 +23,7 @@ To find out how to disclose a vulnerability in Ethereum visit [https://bounty.et
 
 Use the built-in `geth version-check` feature to check whether the software is affected by any known vulnerability. This command will fetch the latest [`vulnerabilities.json`](https://geth.ethereum.org/docs/vulnerabilities/vulnerabilities.json) file which contains known security vulnerabilities concerning `geth`, and cross-check the data against its own version number.
 
-The following key may be used to communicate sensitive information to developers.
+The following may be used to communicate sensitive information to developers.
 
 Fingerprint: `AE96 ED96 9E47 9B00 84F3 E17F E88D 3334 FA5F 6A0A`
 
